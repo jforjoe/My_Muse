@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/joy/Desktop/My_Muse/My_Muse/build",
+  "command": "/usr/bin/g++   -I../Dependencies/include  -g   -std=gnu++17 -o CMakeFiles/My_muse.dir/main.cpp.o -c /home/joy/Desktop/My_Muse/My_Muse/main.cpp",
+  "file": "/home/joy/Desktop/My_Muse/My_Muse/main.cpp"
+}
+]

@@ -1,0 +1,11 @@
+prefix=/home/joy/Desktop/New folder/My_Muse/Dependencies
+exec_prefix=/home/joy/Desktop/New folder/My_Muse/Dependencies
+libdir=/home/joy/Desktop/New folder/My_Muse/Dependencies/lib
+includedir=/home/joy/Desktop/New folder/My_Muse/Dependencies/include
+
+Name: TagLib
+Description: Audio meta-data library
+Requires: 
+Version: 1.12
+Libs: -L${libdir} -ltag -lz
+Cflags: -I${includedir} -I${includedir}/taglib
